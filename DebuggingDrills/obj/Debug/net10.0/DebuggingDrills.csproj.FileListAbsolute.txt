@@ -1,0 +1,14 @@
+/Users/srostron/Code/interview-prep/DebuggingDrills/bin/Debug/net10.0/DebuggingDrills
+/Users/srostron/Code/interview-prep/DebuggingDrills/bin/Debug/net10.0/DebuggingDrills.deps.json
+/Users/srostron/Code/interview-prep/DebuggingDrills/bin/Debug/net10.0/DebuggingDrills.runtimeconfig.json
+/Users/srostron/Code/interview-prep/DebuggingDrills/bin/Debug/net10.0/DebuggingDrills.dll
+/Users/srostron/Code/interview-prep/DebuggingDrills/bin/Debug/net10.0/DebuggingDrills.pdb
+/Users/srostron/Code/interview-prep/DebuggingDrills/obj/Debug/net10.0/DebuggingDrills.GeneratedMSBuildEditorConfig.editorconfig
+/Users/srostron/Code/interview-prep/DebuggingDrills/obj/Debug/net10.0/DebuggingDrills.AssemblyInfoInputs.cache
+/Users/srostron/Code/interview-prep/DebuggingDrills/obj/Debug/net10.0/DebuggingDrills.AssemblyInfo.cs
+/Users/srostron/Code/interview-prep/DebuggingDrills/obj/Debug/net10.0/DebuggingDrills.csproj.CoreCompileInputs.cache
+/Users/srostron/Code/interview-prep/DebuggingDrills/obj/Debug/net10.0/DebuggingDrills.dll
+/Users/srostron/Code/interview-prep/DebuggingDrills/obj/Debug/net10.0/refint/DebuggingDrills.dll
+/Users/srostron/Code/interview-prep/DebuggingDrills/obj/Debug/net10.0/DebuggingDrills.pdb
+/Users/srostron/Code/interview-prep/DebuggingDrills/obj/Debug/net10.0/DebuggingDrills.genruntimeconfig.cache
+/Users/srostron/Code/interview-prep/DebuggingDrills/obj/Debug/net10.0/ref/DebuggingDrills.dll

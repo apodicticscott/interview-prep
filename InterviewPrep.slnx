@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="ApiPractice/ApiPractice.csproj" />
+  <Project Path="DebuggingDrills/DebuggingDrills.csproj" />
+</Solution>
