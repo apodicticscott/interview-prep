@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "4vZdgD6EpgA=",
+  "success": true,
+  "projectFilePath": "/Users/srostron/Code/interview-prep/MyWebApiProject/MyWebApiProject.csproj",
+  "expectedPackageFiles": [
+    "/Users/srostron/.nuget/packages/microsoft.aspnetcore.openapi/10.0.11/microsoft.aspnetcore.openapi.10.0.11.nupkg.sha512",
+    "/Users/srostron/.nuget/packages/microsoft.openapi/2.7.5/microsoft.openapi.2.7.5.nupkg.sha512"
+  ],
+  "logs": []
+}
